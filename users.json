@@ -7,8 +7,14 @@
   },
   {
     "id": 2,
-    "username": "johndoe",
-    "email": "john@mail.com",
+    "username": "budi",
+    "email": "budi@mail.com",
+    "role": "User"
+  },
+  {
+    "id": 3,
+    "username": "citra",
+    "email": "citra@mail.com",
     "role": "User"
   }
 ]
